@@ -31,7 +31,7 @@ Relatórios
 
 ## Design do código
 
-![plot](./images/codeDesign.png)
+![plot](./images/codeDesign.PNG)
 
 
 ## Executando o projeto
