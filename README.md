@@ -2,6 +2,9 @@
 
 Aplicação para controle de fluxo de caixa e processamento de relatório.
 
+Aqui o intuito é prover uma aplicação que de alguma forma tenha uma escalabilidade interessante e consequentemente uma arquitetura confortável para manutenções futuras.
+
+Este serviço pode ser facilmente utilizado para fins de controles financeiros, sendo acoplado a outros microserviços responsáveis por tarefas financeiras.
 
 ## Tecnologias utilizadas
 
