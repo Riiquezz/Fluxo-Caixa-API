@@ -55,7 +55,7 @@ docker-compose up -d
 
 ## Postman Collection
 
-[FluxoCaixa - Postman Collection](./postman_example/FluxoCaixaOpah - Collection.postman_collection.json)
+[FluxoCaixa - Postman Collection](./postman_example/FluxoCaixaOpah%20-%20Collection.postman_collection.json)
 
 ### Observações:
 - Lembrar de verificar o token de autorização na collection.
